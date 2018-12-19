@@ -7,3 +7,9 @@
 1：支持ip地址过滤
 2：支持url过滤
 3：支持自定义的代理服务器
+
+#### 使用方式
+
+环境：Linux Ubuntu （gtk2.0+pthread）
+编译：gcc -o ui ui.c csapp.c `pkg-config --cflags --libs gtk+-2.0` -g -Wall -lpthread
+
