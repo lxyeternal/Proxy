@@ -4,12 +4,12 @@
 
 #### 功能
 
-1：支持ip地址过滤
-2：支持url过滤
-3：支持自定义的代理服务器
+1：支持ip地址过滤<br/>
+2：支持url过滤<br/>
+3：支持自定义的代理服务器<br/>
 
 #### 使用方式
 
-环境：Linux Ubuntu （gtk2.0+pthread）
-编译：gcc -o ui ui.c csapp.c `pkg-config --cflags --libs gtk+-2.0` -g -Wall -lpthread
+环境：Linux Ubuntu （gtk2.0+pthread）<br/>
+编译：gcc -o ui ui.c csapp.c `pkg-config --cflags --libs gtk+-2.0` -g -Wall -lpthread<br/>
 
