@@ -16,7 +16,7 @@
 #### 效果
 
 <div align="center">
-<img width="260" height="450" src="https://github.com/wenboi/proxy/raw/master/image/1.png"/>
-<img width="260" height="450" src="https://github.com/wenboi/proxy/raw/master/image/2.png"/>
+<img  src="https://github.com/wenboi/proxy/raw/master/image/1.png"/>
+<img  src="https://github.com/wenboi/proxy/raw/master/image/2.png"/>
 </div>
 
