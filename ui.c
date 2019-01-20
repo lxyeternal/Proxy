@@ -1,3 +1,9 @@
+'''
+	name:guoxiaowen
+	time:2018-11-11
+	lang:C
+'''
+
 #include<gtk/gtk.h>
 #include<string.h>
 #include<stdio.h>
